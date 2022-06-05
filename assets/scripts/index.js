@@ -190,4 +190,4 @@ function compareArrays(array1, array2) {
     }
 }
 
-console.log(`Output de los dos arrays propuestos: '${compareArrays(exampleArray, exampleArray2)}'`)
+console.log(`Output of the two proposed arrays '${compareArrays(exampleArray, exampleArray2)}'`)
